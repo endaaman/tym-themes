@@ -1,14 +1,12 @@
 -- iceberg
-
 local bg = '#161821'
 local fg = '#d2d4de'
 
 return {
+  color_background        = bg,
   color_foreground        = fg,
-  color_foreground_bold   = fg,
   color_cursor            = fg,
   color_cursor_foreground = bg,
-  color_background        = bg,
   color_0  = '#161821',
   color_1  = '#e27878',
   color_2  = '#b4be82',

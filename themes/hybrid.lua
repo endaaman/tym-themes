@@ -1,5 +1,4 @@
 -- hybrid
-
 local bg = '#1D1F21'
 local fg = '#C5C8C6'
 
